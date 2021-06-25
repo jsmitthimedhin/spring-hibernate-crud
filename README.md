@@ -13,3 +13,8 @@ I was also able to practice using the Spring framework on the front-end using th
 
 
 Credit of the original application idea goes to Chad Darby in his Udemy course, "Spring & Hibernate for Beginners"
+
+## How to use
+1. Run the SQL files on MySQL
+2. Using Eclipse, connect the Tomcat server (I use v.9, if you don't have Tomcat, then you must install it before the program can be run, or you can use a different web-server of your choice).
+3. Run the program in the Tomcat server. 
