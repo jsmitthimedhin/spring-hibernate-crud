@@ -4,6 +4,7 @@
 Spring-Hibernate-CRUD is a simple database application for companies that allows users to Create, Read, Update, and Delete customer information.
 
 *This program is similar to my previous repo, JDBC-crud, except built with Spring and Hibernate.
+*This program is built with JAR files attached, so no need for Maven.
 
 ## What I learned
 
